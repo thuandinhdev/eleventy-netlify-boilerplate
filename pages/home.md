@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-[](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+
 
 ```html
 <!-- Hero Start -->
