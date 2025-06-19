@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 [](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
 
-```
+```html
 <!-- Hero Start -->
         <section class="d-table w-100 mt-4 mb-5" id="home">
             <div class="container">
