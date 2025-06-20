@@ -14,4 +14,4 @@ body2: |-
 
   {{< slider "/static/img/bg1.jpg,,/static/img/bg2.jpg" >}}
 ---
-test
+test123
