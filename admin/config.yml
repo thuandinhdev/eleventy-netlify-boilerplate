@@ -43,29 +43,8 @@ collections:
         fields:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
-      - label: "Slider"
-        name: "images"
-        widget: "list"
-        field:
-          label: "Image"
-          name: "image"
-          widget: "image"
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        editor_components: ["slider"]
 
-   # Slider trên trang chủ
-  - name: "Home Page"
-    label: "Home Page"
-    folder: "_data/slider"
-    format: "json"
-    create: true
-    slug: "{{slug}}"
-    media_folder: ""
-    public_folder: ""
-    fields:
-      - label: "Slider"
-        name: "images"
-        widget: "list"
-        field:
-          label: "Image"
-          name: "image"
-          widget: "image"
