@@ -9,5 +9,6 @@ eleventyNavigation:
 images:
   - /static/img/bg1.jpg
   - /static/img/bg2.jpg
+body2: test
 ---
-![](/static/img/trang-chủ-idc-06-19-2025_03_20_pm.png)
+test
