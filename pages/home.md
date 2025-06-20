@@ -9,6 +9,9 @@ eleventyNavigation:
 images:
   - /static/img/bg1.jpg
   - /static/img/bg2.jpg
-body2: test
+body2: |-
+  test
+
+  {{< slider "/static/img/bg1.jpg,,/static/img/bg2.jpg" >}}
 ---
 test
