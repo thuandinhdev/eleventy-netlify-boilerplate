@@ -28,4 +28,6 @@ function myCommand() {
 }
 ```
 
+{{< slider "/static/img/bg1.jpg" >}}
+
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
