@@ -1,7 +1,7 @@
 ---
 title: test
 date: 2025-06-21T09:18:00.000Z
-permalink: test
+permalink: test.html
 eleventyNavigation:
   order: 0
   key: "1"
